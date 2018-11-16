@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+Yo file chalauna node.js chainxa. Node.js baata banako local server lai activate garyo vane matra chalxa. 
+Node.js install gare pachi NPM(Node.Js Package Manager) command prompt use garera tala ko dui oota command-line run garnu parxa.
+lastko (npm run build) chai /dist/ folder (distribution folder activate garna kaam lagxa.
+/dist/ chai web host garna kaam lagxa (web live garna).
+
 ## Build Setup
 
 ``` bash
